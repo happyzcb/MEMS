@@ -1,1 +1,1 @@
-LSM6DS3 driver test.
+LSM6DS3 driver code.
