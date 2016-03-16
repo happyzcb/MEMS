@@ -1,2 +1,2 @@
 # MEMS
-LSM6DS3
+LSM6DS3 driver code.
